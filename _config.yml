@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This site will host my personal developer resume and blog once it's done
 
 # social links
-twitter_username: @Asthamor
+twitter_username: Asthamor
 github_username:  Asthamor
 
 show_excerpts: true # set to false to remove excerpts on the homepage
